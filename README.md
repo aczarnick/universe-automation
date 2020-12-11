@@ -1,2 +1,2 @@
 # universe-automation
-Awesome GitHub Universe Automation Workshop
+GitHub Universe Automation Workshop
